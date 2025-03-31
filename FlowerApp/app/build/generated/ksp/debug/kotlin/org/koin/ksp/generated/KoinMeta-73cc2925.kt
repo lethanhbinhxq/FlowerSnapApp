@@ -1,4 +1,0 @@
-package org.koin.ksp.generated
-
-public class _KSP_ComExampleFlowerappUiCameraCapturepictureSavePhoto
-public class _KSP_ComExampleFlowerappUiCameraCapturepictureCameraViewModel
