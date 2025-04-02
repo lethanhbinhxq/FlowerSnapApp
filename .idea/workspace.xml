@@ -9,7 +9,38 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5e8cd01-0c74-47c9-8c63-fa1b936ace47" name="Changes" comment="" />
+    <list default="true" id="c5e8cd01-0c74-47c9-8c63-fa1b936ace47" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/logout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/flowerapp/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/flowerapp/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/flowerapp/ui/home/HomeScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/flowerapp/ui/home/HomeScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/flowerapp/ui/model3d/View3DModelScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/flowerapp/ui/model3d/View3DModelScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/s_10_cherry_blossom.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/s_10_cherry_blossom.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/s_11_lavender.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/s_11_lavender.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/s_12_jasmine.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/s_12_jasmine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/s_13_iris.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/s_13_iris.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/s_14_lotus.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/s_14_lotus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/s_15_chrysanthemum.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/s_15_chrysanthemum.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/s_16_hibiscus.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/s_16_hibiscus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/s_17_camellia.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/s_17_camellia.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/s_18_rhododendron.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/s_18_rhododendron.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/s_19_gladiolus.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/s_19_gladiolus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/s_1_rose.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/s_1_rose.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/s_20_poppy.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/s_20_poppy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/s_2_tulip.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/s_2_tulip.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/s_3_sunflower.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/s_3_sunflower.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/s_4_lily.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/s_4_lily.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/s_5_daisy.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/s_5_daisy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/s_6_orchid.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/s_6_orchid.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/s_7_marigold.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/s_7_marigold.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/s_8_daffodil.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/s_8_daffodil.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/s_9_peony.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/s_9_peony.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/cherry_blossom_branch.glb" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/cherry_blossom_branch.glb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/lilies.glb" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/lilies.glb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +81,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -59,7 +90,7 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2uilKAM242PST5kFUfv9FAxwxT0" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectReloadState">
@@ -80,13 +111,13 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "com.google.services.firebase.aqiPopupShown": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Andoird-Studio/camera",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/",
+    "last_opened_file_path": "D:/Mobile-Assignment/FlowerSnapApp",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.17",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.editor"
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RunManager">
@@ -212,17 +243,22 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
   <component name="play_dynamic_filters_status">
     <option name="appIdToCheckInfo">
       <map>
         <entry key="com.example.flowerapp">
           <value>
-            <CheckInfo lastCheckTimestamp="1743406626561" />
+            <CheckInfo lastCheckTimestamp="1743566402242" />
           </value>
         </entry>
         <entry key="com.example.flowerapp.test">
           <value>
-            <CheckInfo lastCheckTimestamp="1743406626562" />
+            <CheckInfo lastCheckTimestamp="1743566402246" />
           </value>
         </entry>
       </map>

@@ -66,7 +66,8 @@ fun MainApp() {
                     },
                         openView3DModelScreen = {
                             navController.navigate("model3d")
-                        }
+                        },
+                        onLogOut = { navigateBack() }
                     )
                 }
 

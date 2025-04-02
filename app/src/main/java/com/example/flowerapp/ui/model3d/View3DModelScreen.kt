@@ -258,7 +258,13 @@ fun ModelInfoPopup(model: Model3D, onDismiss: () -> Unit) {
 
                 Spacer(modifier = Modifier.height(8.dp))
 
-                Text(text = model.description, style = MaterialTheme.typography.bodyMedium)
+                Box(
+                    modifier = Modifier
+                        .background(MaterialTheme.colorScheme.onPrimary)
+                        .padding(10.dp)
+                ) {
+                    Text(text = model.description, style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onTertiary)
+                }
                 Spacer(modifier = Modifier.height(16.dp))
                 Button(onClick = onDismiss) { Text("Close") }
             }
@@ -292,7 +298,7 @@ val model3DList = listOf(
     Model3D("Rose", "A beautiful red rose preserved in a transparent glass dome, symbolizing love, beauty, and eternity.", R.raw.rose),
     Model3D("Sunflower", "A bright and cheerful sunflower with golden petals and a sturdy green stem, capturing the essence of warmth and vitality.", R.raw.sunflower),
     Model3D("Tulip", "A graceful pair of purple tulips standing together in elegant harmony, symbolizing elegance and admiration.", R.raw.tulip),
-    Model3D("Cherry blossom", "A lovely cherry blossom branch adorned with soft pink flowers, capturing the beauty of spring.", R.raw.cherry_blossom_branch),
+    Model3D("Cherry blossom", "A majestic cherry blossom tree in full bloom, adorned with delicate pink petals that capture the beauty of spring.", R.raw.cherry_blossom_branch),
     Model3D("Lily", "A dreamy bunch of pink lilies, with some in full bloom and others still in bud, radiating natural beauty.", R.raw.lilies),
     Model3D("Lotus", "A serene pink lotus in full bloom, with gracefully layered petals radiating purity and tranquility.", R.raw.lotus),
     Model3D("Orchid", "A graceful branch of purple orchids with elegant, velvety petals cascading in a delicate arc.", R.raw.orchid)
